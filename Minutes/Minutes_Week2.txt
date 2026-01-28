@@ -1,0 +1,16 @@
+Meeting Minutes – Week 2
+
+Date: 28/01/2026
+Participants: Hassan, Abdul
+
+Discussion:
+- The team received an email confirming the assigned project
+- Project P2 – Web Interface to Interact with “Assets” was reviewed
+- The project brief was discussed to understand the overall requirements between the secretary and Team Leader.
+
+Decisions:
+- Project P2 was confirmed as the official project for the group
+
+Actions:
+- Hassan and Abdul will summarise the P2 project brief for the team, after which all team members will review it and develop an initial understanding of the project requirements, during our labs session on 29/01/2026.
+- Secretary to continue maintaining and managing the GitHub repository
