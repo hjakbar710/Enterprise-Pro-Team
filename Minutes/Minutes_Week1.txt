@@ -1,0 +1,20 @@
+Meeting Minutes – Week 1
+
+Date: 26/01/2026
+Participants: Yusuf, Hassan, Abdul, Mohammed, Aadam, Kazim
+
+Discussion:
+- Team members introduced themselves
+- Project options were discussed; the preferred project was P3, with P2 as the first reserve and P1 as the second reserve
+- Roles were assigned, such as Team Leader, Team Secretary, and Team Speaker
+- A GitHub repository was created by the Secretary and reviewed by other team members
+
+Roles:
+- Team Leader: Abdul
+- Team Secretary: Hassan
+- Team Speaker: Yusuf
+
+Actions:
+- Secretary to maintain and manage the GitHub repository
+- Team members to send their GitHub usernames
+
