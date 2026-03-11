@@ -1,7 +1,7 @@
 Meeting Minutes – Week 1
 
 Date: 26/01/2026
-Participants: Yusuf(Online), Hassan, Abdul, Mohammed, Aadam, Kazim
+Participants(Locations): Yusuf(Online), Hassan(Lab), Abdul(Lab), Mohammed(Lab), Aadam(Lab), Kazim(Lab)
 
 Agenda:
 - Team introduction
@@ -26,3 +26,4 @@ Actions:
 
 Next Meeting:
 To be decided by the team.
+
