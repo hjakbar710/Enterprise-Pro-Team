@@ -1,4 +1,4 @@
-Meeting Minutes – Week 8
+Meeting Minutes – Week 7
 
 Date: 09/03/2026
 Participants (Locations): Yusuf (Online), Hassan (Uni), Abdul (Uni), Mohammed (Not Present), Aadam (Uni), Kazim (Not Present)
@@ -14,3 +14,4 @@ Decisions:
 Actions:
 - Secretary to finalise and upload all meeting minutes to GitHub.
 - Team members to assist with finalising CW1 documentation.
+
