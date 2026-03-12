@@ -1,6 +1,6 @@
 Meeting Minutes – Week 3
 
-Date: 02/02/2026
+Date: 03/02/2026
 Participants (Locations): Yusuf (Not Present), Abdul (Lab), Mohammed (Lab), Aadam (Lab), Kazim (Not Present), Hassan (Not Present)
 
 Discussion:
@@ -20,4 +20,5 @@ Decisions:
 Actions:
 - Team members to review the client requirements discussed in the meeting.
 - Secretary to record the meeting minutes and maintain the GitHub repository.
+
 - Team leader to contact the client if clarification is needed.
