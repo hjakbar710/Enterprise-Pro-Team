@@ -1,10 +1,10 @@
-Meeting Minutes – Week 4
+Meeting Minutes – Week 3
 
 Date: 09/02/2026
 Participants (Locations): Yusuf (Uni), Hassan (Not Present), Abdul (Uni), Mohammed (Uni), Aadam (Uni), Kazim (Not Present)
 
 Discussion:
-- The team reviewed the requirements discussed during the client meeting in Week 3.
+- The team reviewed the requirements discussed during the client meeting in Week 2.
 - Team members started working on the Client Specification Document based on the information provided by the client.
 - The system requirements were discussed, including login and registration functionality, admin approval of users, and handling spatial datasets.
 - The team discussed the technologies that could be used for the project and how the system might manage data uploads and display information on a map.
@@ -15,3 +15,4 @@ Decisions:
 Actions:
 - Team members to contribute to the specification document.
 - Secretary to continue recording meeting minutes and maintaining the GitHub repository.
+
