@@ -1,4 +1,4 @@
-Meeting Minutes – Week 6
+Meeting Minutes – Week 5
 
 Date: 23/02/2026
 Participants (Locations): Yusuf (Uni), Hassan (Uni), Abdul (Uni), Mohammed (Uni), Aadam (Uni), Kazim (Uni)
@@ -14,3 +14,4 @@ Decisions:
 Actions:
 - Secretary to upload additional meeting minutes and maintain repository organisation.
 - Team members to check repository access and review project files.
+
