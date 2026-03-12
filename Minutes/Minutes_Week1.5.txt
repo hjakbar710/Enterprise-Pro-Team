@@ -1,4 +1,4 @@
-Meeting Minutes – Week 1
+Meeting Minutes – Week 1.5
 
 Date: 28/01/2026
 Participants(Location): Hassan(Online), Abdul(Online)
@@ -19,4 +19,5 @@ Decisions:
 Actions:
 - Hassan and Abdul will summarise the P2 project brief for the team, after which all team members will review it and develop an initial understanding of the project requirements during the lab session on 29/01/2026.
 - Secretary to continue maintaining and managing the GitHub repository.
+
 
