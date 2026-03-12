@@ -1,4 +1,4 @@
-Meeting Minutes – Week 5
+Meeting Minutes – Week 4
 
 Date: 16/02/2026
 Participants (Locations): Yusuf (Not Present), Hassan (Lab), Abdul (Lab), Mohammed (Not Present), Aadam (Lab), Kazim (Lab)
@@ -15,3 +15,4 @@ Decisions:
 Actions:
 - Team members to wait for feedback from the client on the specification document.
 - Secretary to continue maintaining project documentation and meeting minutes.
+
