@@ -1,0 +1,16 @@
+Meeting Minutes – Week 8
+
+Date: 09/03/2026
+Participants (Locations): Yusuf (Online), Hassan (Uni), Abdul (Uni), Mohammed (Not Present), Aadam (Uni), Kazim (Not Present)
+
+Discussion:
+- The team reviewed the current progress of CW1 preparation.
+- The repository structure was discussed, including folders for Software, NDA, and Minutes.
+- The team discussed final tasks that need to be completed before submission.
+
+Decisions:
+- The team agreed to complete all required documents and ensure the repository contains the necessary files before submission.
+
+Actions:
+- Secretary to finalise and upload all meeting minutes to GitHub.
+- Team members to assist with finalising CW1 documentation.

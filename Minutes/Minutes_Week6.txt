@@ -1,0 +1,16 @@
+Meeting Minutes – Week 6
+
+Date: 23/02/2026
+Participants (Locations): Yusuf (Uni), Hassan (Uni), Abdul (Uni), Mohammed (Uni), Aadam (Uni), Kazim (Uni)
+
+Discussion:
+- The team reviewed the GitHub repository and discussed how project files should be organised.
+- It was agreed that folders such as Minutes, Documents, and Software would help keep the repository organised.
+- The team discussed the importance of maintaining documentation for the CW1 submission.
+
+Decisions:
+- GitHub will be used as the main platform for organising project materials.
+
+Actions:
+- Secretary to upload additional meeting minutes and maintain repository organisation.
+- Team members to check repository access and review project files.

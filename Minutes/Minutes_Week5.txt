@@ -1,0 +1,17 @@
+Meeting Minutes – Week 5
+
+Date: 16/02/2026
+Participants (Locations): Yusuf (Not Present), Hassan (Lab), Abdul (Lab), Mohammed (Not Present), Aadam (Lab), Kazim (Lab)
+
+Discussion:
+- The team reviewed the completed Client Specification Document.
+- The document was checked to ensure it included the main requirements discussed with the client, such as user authentication, admin functions, spatial data uploads, and database security.
+- The team discussed submitting the specification document to the client for review and approval.
+- The specification document was uploaded and shared with the client for review.
+
+Decisions:
+- The Client Specification Document was finalised and uploaded for the client to review.
+
+Actions:
+- Team members to wait for feedback from the client on the specification document.
+- Secretary to continue maintaining project documentation and meeting minutes.

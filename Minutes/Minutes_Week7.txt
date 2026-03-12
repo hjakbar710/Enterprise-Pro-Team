@@ -1,0 +1,16 @@
+Meeting Minutes – Week 7
+
+Date: 02/03/2026
+Participants (Locations): Yusuf (Online), Hassan (Online), Abdul (Online), Mohammed (Online), Aadam (Online), Kazim (Online)
+
+Discussion:
+- The team discussed the CW1 submission requirements provided by the lecturer.
+- Required items such as the specification document, peer review document, NDA, and GitHub repository information were reviewed.
+- The team noted that meeting minutes must be updated and included in the repository.
+
+Decisions:
+- The team will prioritise completing documentation required for CW1 submission.
+
+Actions:
+- Secretary to prepare and upload missing meeting minutes.
+- Team members to assist with reviewing project documents.

@@ -1,0 +1,23 @@
+Meeting Minutes – Week 3
+
+Date: 02/02/2026
+Participants (Locations): Yusuf (Not Present), Abdul (Lab), Mohammed (Lab), Aadam (Lab), Kazim (Not Present), Hassan (Not Present)
+
+Discussion:
+- A meeting was held with the project client to discuss the requirements for Project P2 – Web Interface to Interact with “Assets”.
+- The client explained that the system should be a website with login and registration functionality.
+- Users should be able to register with their name and email address, and an administrator must approve the account before it becomes active.
+- The client mentioned security features such as password reset and the possibility of multi-factor authentication (MFA).
+- The admin should be able to approve or reject user accounts and manage users in the system.
+- The client also discussed monitoring login activity and keeping logs of actions such as login, logout, password resets, and database changes.
+- The system should allow users to upload spatial datasets (CSV files containing northing and easting data) and display them on a map.
+- The client suggested using PostgreSQL as the database and advised avoiding licensed databases such as Oracle or Microsoft SQL Server.
+
+Decisions:
+- The team will start preparing the specification document based on the client requirements.
+- PostgreSQL will be considered as the database for the system.
+
+Actions:
+- Team members to review the client requirements discussed in the meeting.
+- Secretary to record the meeting minutes and maintain the GitHub repository.
+- Team leader to contact the client if clarification is needed.
