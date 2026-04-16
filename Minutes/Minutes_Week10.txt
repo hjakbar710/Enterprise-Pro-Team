@@ -1,0 +1,35 @@
+Meeting Minutes – Week 10
+
+Date: 13/04/2026
+Participants: Hassan (Uni), Abdul (Uni), Kazim (Uni), Yusuf (Uni), Aadam (Uni), Mohammed (Uni)
+
+
+Discussion:
+- The team focused on testing the system and preparing for final submission.
+- Key features such as login, registration, and main functionality were tested.
+- Remaining system issues and bugs were identified and discussed.
+- The importance of completing documentation was highlighted.
+
+
+Progress Update:
+- Core system features completed and working.
+- Database connected and functioning correctly.
+- Testing of major features carried out.
+- Documentation (testing and meeting minutes) in progress.
+
+
+Decisions:
+- Finalise all documentation before submission.
+- Fix remaining bugs instead of adding new features.
+- Ensure system is stable and meets requirements.
+
+
+Actions:
+- Team members to complete testing and fix issues.
+- Secretary to finalise all documentation.
+- All members to review the system before submission.
+
+
+Next Steps:
+- Complete final submission.
+- Ensure all documentation is uploaded by deadline.
