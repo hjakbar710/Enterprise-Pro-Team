@@ -1,0 +1,34 @@
+Meeting Minutes – Week 8
+
+Date: 02/04/2026
+Participants: Hassan (Uni), Abdul (Uni), Yusuf (Uni), Mohammed (Uni), Aadam (Uni), Kazim (Uni) 
+
+
+Discussion: 18/03/2026
+- It was identified that the system was not fully complete and explanations were unclear.
+- The team discussed improving the backend functionality, especially login and database connection.
+- Git and version control were discussed to improve collaboration.
+- Issues with project organisation and missing features were highlighted.
+
+
+Progress Update:
+- Basic project structure created (frontend and backend).
+- Initial login and registration system we had to work on.
+
+
+Decisions:
+- Focus on improving system functionality before final submission.
+- Use Git properly for tracking changes and teamwork.
+- Fix major issues identified during the presentation, while we rewatched our presentation video to further improve our work.
+
+
+Actions:
+- Team members to continue working on assigned parts.
+- Backend team to fix authentication and database issues.
+- Secretary to record meeting and update documentation.
+
+
+Next Steps:
+- Improve login and registration system.
+- Fix database connection issues.
+- Continue development and testing.
