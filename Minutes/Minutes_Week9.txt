@@ -1,0 +1,30 @@
+Meeting Minutes – Week 9
+
+Date: 06/04/2026
+Participants: Abdul (Uni), Hassan (Uni), Kazim (Uni), Yusuf (Uni), Mohammed (Uni) Aadam (Uni)
+
+
+Discussion:
+- The team focused on continuing development of the project after the first presentation.
+- The team discussed how to manage changes and avoid conflicts.
+- Issues related to system errors and incomplete features were discussed.
+
+Progress Update:
+- Some team members started committing changes.
+- Backend and frontend development continued.
+
+
+Decisions:
+- All team members must commit their work regularly.
+- All team member should be showing the work that is almost done to leader and secretary for futher feedback on improvements.
+
+
+Actions:
+- Secretary to monitor progress and documentation.
+- Backend team to continue improving login system.
+- Frontend team to improve user interface.
+
+
+Next Steps:
+- Ensure all members understand workflow.
+- Continue development the project.
